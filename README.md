@@ -3,4 +3,4 @@
     - Schema: Customers, Products, Orders, Order Items, Stores
     - Sample data - Practice queries (Joins, Window Functions, Aggregates, Subqueries, etc.)
  
- Built using PostgreSQL on DB Fiddle.
+ Built using MY SQL DB
